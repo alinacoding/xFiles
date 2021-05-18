@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "@RestController",
+      "type": "java.lang.String",
+      "description": "Description for @RestController."
+  }
+] }
